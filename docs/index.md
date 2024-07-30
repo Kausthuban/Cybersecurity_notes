@@ -4,10 +4,15 @@ This obsidian vault comprises of all the knowledge I gained on my journey of cyb
 
 
 The structure of the notes is given below
-- **[[Core-Home |Core]]** :The basics folder contains the core concepts that are required for a deeper understanding of all the aspects. It contains the most basic and necessary concepts that are an absolute requirement 
+
+- **[[Core-Home |Core]]** :The basics folder contains the core concepts that are required for a deeper understanding of all the aspects. It contains the most basic and necessary concepts that are an absolute requirement
+- 
 - **Cryptography:** This module covers all the cryptography concepts I learnt along with the working
+- 
 - **Computer Networks**: This module contains the basic network principles, scanning methods and network tools
-- **Operating Systems**: The basics of the three common operating systems, 
+- 
+- **Operating Systems**: The basics of the three common operating systems,
+- 
 - **Scripting**: Basics of scripting in bash and powershell and sample scripts covering the most necessary concepts 
 
 
