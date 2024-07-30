@@ -1,0 +1,1 @@
+This might be unnecessary, but this contains a list of flashcards for spaced repetition using the spaced repetition plugin 

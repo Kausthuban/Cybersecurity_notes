@@ -1,0 +1,1 @@
+Python is one of the most simplest programming languages with a wide community support. Python is an interpreted language
